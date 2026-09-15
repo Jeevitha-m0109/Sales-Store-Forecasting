@@ -1,0 +1,6 @@
+{
+  "name": "Store Sales Forecasting",
+  "description": "Frontend store sales forecasting application with temporal analysis, regression models, interactive exploration, and dynamic PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
